@@ -64,6 +64,5 @@ module.exports = {
   readNote:readNote,
   listNotes:listNotes,
   removeNote:removeNote,
-    getNotes: getNotes,
     addNote: addNote
 }
